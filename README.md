@@ -11,21 +11,21 @@ The design increments a binary value and drives the board's display hardware to 
 The project demonstrates how digital logic can be used to connect internal binary state with physical hardware outputs.
 
 # Concepts 
--FPGA development
--Digital logic
--Binary representation
--Counters
--Clock-driven logic
--Hardware outputs
--Seven-segment display control
--Hardware/software debugging
+- FPGA development
+- Digital logic
+- Binary representation
+- Counters
+- Clock-driven logic
+- Hardware outputs
+- Seven-segment display control
+- Hardware/software debugging
 
 # Hardware
--FPGA development board
--On-board display
--Clock source
+- FPGA development board
+- On-board display
+- Clock source
 
-#Result
+# Result
 The primary goal was to implement and verify a digital counting system directly on FPGA hardware.
 This required translating the desired behavior into digital logic and verifying the resulting hardware behavior.
 The completed design successfully increments the binary value and displays the resulting state on the FPGA board.
