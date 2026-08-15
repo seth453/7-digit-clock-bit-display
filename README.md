@@ -25,7 +25,7 @@ The project demonstrates how digital logic can be used to connect internal binar
 -On-board display
 -Clock source
 
-
+#Result
 The primary goal was to implement and verify a digital counting system directly on FPGA hardware.
 This required translating the desired behavior into digital logic and verifying the resulting hardware behavior.
 The completed design successfully increments the binary value and displays the resulting state on the FPGA board.
